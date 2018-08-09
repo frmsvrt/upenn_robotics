@@ -11,5 +11,5 @@ This repo include matlab solution for upenn advanced robotics course:
 <img src="./misc/helix.gif" alt="step" width="310">
 <img src="./misc/line.gif" alt="step" width="310">
 ##### Velocities and Position for Helix:
-<img align="left" src="./misc/position.png" alt="step" width="310"> 
-<img align="left" src="./misc/velocity.png" alt="step" width="310">
+<img src="./misc/position.png" alt="step" width="310"> 
+<img src="./misc/velocity.png" alt="step" width="310">
